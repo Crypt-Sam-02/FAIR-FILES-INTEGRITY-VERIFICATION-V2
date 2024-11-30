@@ -44,5 +44,8 @@ Roadmap Add support for machine learning-based anomaly detection. Enhance the da
 Here's A Sneak Peek!!
 
 
-https://github.com/user-attachments/assets/d11b07a8-da34-48c2-b4f9-bfb4bf041cde
+https://github.com/user-attachments/assets/14767853-7184-4f1c-bfec-f5bd2bfaa783
+
+
+
 
