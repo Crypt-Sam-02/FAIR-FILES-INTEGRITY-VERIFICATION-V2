@@ -12,7 +12,7 @@ What's New in V2
 
 MCA Final Year Project - based on integrity verification of files and ensuring the authenticity of the files used in programs.
 
-Overview: This project provides a robust solution for file integrity verification and threat analysis. It was developed using Go for backend performance and TypeScript for an interactive front end. It ensures that critical files remain secure by detecting unauthorized modifications and analyzing potential threats.
+Overview: This project provides a robust file integrity verification and threat analysis solution. It was developed using Go for backend performance and TypeScript for an interactive front end. It ensures that critical files remain secure by detecting unauthorized modifications and analyzing potential threats.
 
 Features File Integrity Verification
 
@@ -39,3 +39,10 @@ Backend (config.yaml) Directories to Monitor Hash Algorithms (SHA-256, SHA-512) 
 Frontend (.env) RestFul API Notification Preferences
 
 Roadmap Add support for machine learning-based anomaly detection. Enhance the dashboard with real-time analytics and visualizations. Add support for real-time monitoring analysis.
+
+
+Here's A Sneak Peek!!
+
+
+https://github.com/user-attachments/assets/d11b07a8-da34-48c2-b4f9-bfb4bf041cde
+
