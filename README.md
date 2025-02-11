@@ -2,7 +2,7 @@
 
 View the Site @ Netlify --> https://fairfiles-curious-03212d.netlify.app/
 
-[Edit in StackBlitz next-generation editor ⚡️](https://stackblitz.com/~/github.com/Crypt-Sam-02/FAIR-FILES-INTEGRITY-VERIFICATION-V2)
+[Edit in StackBlitz next-generation editor ⚡️]([https://stackblitz.com/~/github.com/Crypt-Sam-02/FAIR-FILES-INTEGRITY-VERIFICATION-V2](https://stackblitz.com/edit/sb1-8bcsq2?file=package.json))
 
 What's New in V2 
 - Added Animations
