@@ -1,6 +1,6 @@
 # FAIR-FILES-INTEGRITY-VERIFICATION-V2
 
-View the Site @ Netlify --> https://curious-rolypoly-03212d.netlify.app/
+View the Site @ Netlify --> https://fairfiles-curious-03212d.netlify.app/
 
 [Edit in StackBlitz next-generation editor ⚡️](https://stackblitz.com/~/github.com/Crypt-Sam-02/FAIR-FILES-INTEGRITY-VERIFICATION-V2)
 
