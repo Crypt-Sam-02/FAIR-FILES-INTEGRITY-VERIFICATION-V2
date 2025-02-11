@@ -9,6 +9,8 @@ What's New in V2
 - UI more smooth
 - More Detailed Analysis
 - Upgraded Algorithm for 99% Accuracy in Detection and Hash Generation.
+- Site Integration with Supabase and Netlify
+- Echo Framework added for faster processing
 - Added Dark Mode Support
 
 
