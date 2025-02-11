@@ -1,6 +1,6 @@
 # FAIR-FILES-INTEGRITY-VERIFICATION-V2
 
-View the Site @ Netlify --> https://fairfiles-curious-03212d.netlify.app/
+View the Site @ Netlify --> https://fairfiles-sec-auth-echo.netlify.app/
 
 Edit in StackBlitz next-generation editor ⚡️--> https://stackblitz.com/edit/sb1-8bcsq2?file=package.json
 
