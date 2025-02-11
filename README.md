@@ -2,7 +2,7 @@
 
 View the Site @ Netlify --> https://fairfiles-curious-03212d.netlify.app/
 
-[Edit in StackBlitz next-generation editor ⚡️]([https://stackblitz.com/edit/sb1-8bcsq2?file=package.json])
+Edit in StackBlitz next-generation editor ⚡️--> https://stackblitz.com/edit/sb1-8bcsq2?file=package.json
 
 What's New in V2 
 - Added Animations
